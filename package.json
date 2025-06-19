@@ -5,7 +5,7 @@
     "description": "Launcher Minecraft pour le serveur Draco SMP",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, DracoMC Inc.",
+        "name": "luuxis, DracoMC, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
