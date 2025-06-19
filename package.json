@@ -2,7 +2,7 @@
     "name": "draco-launcher",
     "productname": "Draco Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Draco SMP",
+    "description": "Launcher Minecraft pour le serveur Draco SMP",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, DracoMC Inc.",
