@@ -1,11 +1,11 @@
 {
     "name": "Draco-Launcher",
-    "preductname": "Draco Launcher",
+    "preductname": "Draco-Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, DracoMC, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
