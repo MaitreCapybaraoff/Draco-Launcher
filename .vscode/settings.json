@@ -4,6 +4,7 @@
         "**/node_modules": true,
         "**/package-lock.json": true,
         "**/dist": true,
+        "**/data": true,
         "**/app": true,
         "**/.gitignore": true
     }
