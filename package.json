@@ -9,12 +9,12 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.novamc.fr:25594",
+    "url": "https://launcher.novamc.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=http://www.image-heberg.fr/files/17507513632578634464.jpg"
+        "icon": "node build.js --icon=https://novamc.fr/icon/logo.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
