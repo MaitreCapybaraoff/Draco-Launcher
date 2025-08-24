@@ -1,7 +1,7 @@
 {
     "name": "Draco-Launcher",
     "productName": "Draco Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur Draco SMP",
     "main": "src/app.js",
     "author": {
@@ -9,12 +9,12 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.novamc.fr",
+    "url": "http://launcher.draco-smp.ovh",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=http://www.image-heberg.fr/files/17540387092024101321.jpg"
+        "icon": "node build.js --icon=https://draco-smp.ovh/icon/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
